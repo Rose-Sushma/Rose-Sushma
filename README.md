@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rose-Sushma
 - 👀 I’m interested in playing with data.
-- 🌱 I’m currently learning Power BI
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@sushma.rose06@gmail.com
 
