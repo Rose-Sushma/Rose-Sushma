@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rose-Sushma a Data Engineer.
 - 👀 I’m interested in playing with data using my strength SQL. A most sincere and hardworker.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate with Teams while working remotely
+- 💞️ I’m looking to collaborate with new Teams
 - 📫 How to reach me ...@sushma.rose06@gmail.com or call me +91 7338601218
 
 <!---
