@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rose-Sushma a Data Engineer.
+- 👋 Hi, I’m @Rose-Sushma a Data Engineer, a Data Analyst.
 - 👀 I’m interested in playing with data using my strength SQL. A most sincere and hardworker.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with new Teams
